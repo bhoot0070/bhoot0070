@@ -3,7 +3,7 @@
 http://cdn01.palki.tv/live/BTV-M/tracks-v1a1/index.m3u8
 #EXTINF:1, BTV WORLD
 http://cdn01.palki.tv/live/BTVWorld-M/tracks-v1a1/index.m3u8
-#EXTINF:1, BTV CHATTAGRAM
+#EXTINF:-1 BTV CHATTAGRAM
 http://livetvbox.live:8080/live/Roy/Roy/3818.m3u8
 #EXTINF:1, SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/index.m3u8
@@ -11,3 +11,7 @@ http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/index.m3u8
 http://cdn01.palki.tv/live/NTV-M/tracks-v1a1/index.m3u8
 #EXTINF:1, CHANNEL 9
 http://cdn01.palki.tv/live/Channel9-M/tracks-v1a1/index.m3u8
+#EXTINF:1, EKATTOR TV HD
+http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1a1/index.m3u8
+#EXTINF:1, EKHON TV
+http://cdn01.palki.tv/live/EkhonTV-M/tracks-v1a1/index.m3u8
