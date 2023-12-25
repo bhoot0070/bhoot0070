@@ -14,6 +14,46 @@ http://cdn01.palki.tv/live/Channel9-M/tracks-v1a1/index.m3u8
 #EXTINF:1, EKATTOR TV HD
 http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1a1/index.m3u8
 #EXTINF:1, EKHON TV
-http://cdn01.palki.tv/live/EkhonTV-M/tracks-v1a1/index.m3u8
+http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:1, COMILLA TV
 http://103.149.142.133/0.m3u8
+#EXTINF:1, DIPTO TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:1, SOMOY TV
+https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:1, MOVIE BANGLA
+https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:1, GAAN BANGLA
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+#EXTINF:1, NEXUS TV
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:1, ATN BANGLA
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:1, BANGLA TV
+http://aanax.com:8080/live/F31513/0a3204ef/296842.ts
+#EXTINF:1, BANGLAVISION HD
+https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:1, BOISHAKHI TV
+https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:1, CHANNEL 24
+https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:1, BIJOY TV
+https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:1, CHANNEL I HD
+https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:1, GREEN TV
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:1, INDEPENDENT TV
+https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:1, JAMUNA TV
+https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:1, EKUSHEY TV
+https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
+#EXTINF:1, MOHONA TV HD
+https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:1, NEWS 24 HD
+https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:1, RTV HD
+https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:1, SATV HD
+https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
