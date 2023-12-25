@@ -4,7 +4,7 @@ http://cdn01.palki.tv/live/BTV-M/tracks-v1a1/index.m3u8
 #EXTINF:1, BTV WORLD
 http://cdn01.palki.tv/live/BTVWorld-M/tracks-v1a1/index.m3u8
 #EXTINF:1, BTV CHATTAGRAM
-http://livetvbox.live:8080/live/Roy/Roy/3818.m3u8
+http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/index.m3u8
 #EXTINF:1, SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/index.m3u8
 #EXTINF:1, N TV
@@ -26,7 +26,7 @@ https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:1, GAAN BANGLA
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:1, NEXUS TV
-https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/index.m3u8
 #EXTINF:1, ATN BANGLA
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:1, BANGLA TV
