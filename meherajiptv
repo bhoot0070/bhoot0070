@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 BTV
-http://sansat.net:88/nvuCkVRM77/2MqtfAk7upwmfma/100659
-#EXTINF:-1 BTV WORLD
-http://sansat.net:88/nvuCkVRM77/2MqtfAk7upwmfma/100658
-#EXTINF:-1 BTV CHATTAGRAM
-http://livetvbox.live:8080/live/Roy/Roy/3818.ts
-#EXTINF:-1 SANGSAD TV
-http://livetvbox.live:8080/live/Roy/Roy/413.ts
+#EXTINF:1, BTV 
+http://cdn01.palki.tv/live/BTV-M/tracks-v1a1/index.m3u8
+#EXTINF:1, BTV WORLD
+http://cdn01.palki.tv/live/BTVWorld-M/tracks-v1a1/index.m3u8
+#EXTINF:1, BTV CHATTAGRAM
+http://livetvbox.live:8080/live/Roy/Roy/3818.m3u8
+#EXTINF:1, SANGSAD TV
+http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/index.m3u8
+#EXTINF:1, N TV
+http://cdn01.palki.tv/live/NTV-M/tracks-v1a1/index.m3u8
+#EXTINF:1, CHANNEL 9
+http://cdn01.palki.tv/live/Channel9-M/tracks-v1a1/index.m3u8
