@@ -79,7 +79,6 @@ http://103.149.142.133/0.m3u8
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:1, RTV HD
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTM3U
 #EXTINF:1, NOBANNO TV
 https://livess.jagobd.com.bd/live-orgin/cmtv.stream/chunks.m3u8
 #EXTINF:1, JONMO VUMI
