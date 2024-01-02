@@ -267,3 +267,9 @@ http://10.10.10.10/hls/SONY-TEN-5.m3u8
 http://10.10.10.10/hls/PTV-Sports.m3u8
 #EXTINF:1, SPORTS 18
 http://10.10.10.10/hls/SPORTS-18-HD.m3u8
+#EXTINF:1, BEIN SPORTS 1
+https://edge2.laotv.la/live/Bsport1/sc-gaFECQ/tracks-v1a1/index.m3u8
+#EXTINF:1, BEIN SPORTS 2
+https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/tracksa1v1/index.m3u8
+#EXTINF:1, WILLOW  HD
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
