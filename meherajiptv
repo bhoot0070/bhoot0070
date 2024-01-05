@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://10.10.10.10/img/madani.jpg",
+#EXTINF:-1 tvg-logo="http://10.10.10.10/img/madani.jpg",MADANI TV
 http://10.10.10.10/hls/4029.m3u8
-#EXTINF:-1 tvg-logo="http://10.10.10.10/img/quraantv.jpg",
+#EXTINF:-1 tvg-logo="http://10.10.10.10/img/quraantv.jpg",QURAN TV
 http://10.10.10.10/hls/4112.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/somoytv.jpg",SOMOY TV HD
 http://10.10.10.10/hls/4010.m3u8
