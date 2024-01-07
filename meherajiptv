@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/madani.jpg",MADANI TV
 http://10.10.10.10/hls/4029.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/quraantv.jpg",QURAN TV
