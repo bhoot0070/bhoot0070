@@ -55,6 +55,11 @@ http://cdn01.palki.tv/live/AnandaTV-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/MohonaTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:1, GLOBAL TV
 http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, RAJDHANI TV
+https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:1, JAGO NEWS 24
+https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/somoytv.jpg",SOMOY TV HD
 http://10.10.10.10/hls/4010.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/Jamuna.jpg",JAMUNA TV HD
