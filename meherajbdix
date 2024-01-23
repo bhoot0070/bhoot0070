@@ -19,8 +19,6 @@ http://cdn01.palki.tv/live/BTVWorld-M/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF:1, SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:1, T SPORTS AKASH
-http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:1, N TV
 http://cdn01.palki.tv/live/NTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:1, CHANNEL 9
@@ -135,6 +133,14 @@ http://10.10.10.10/hls/4055.m3u8
 http://10.10.10.10/hls/4018.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/STAR-BANGLA.jpg",STAR BANGLA
 http://10.10.10.10/hls/5006.m3u8
+#EXTINF:1, JALSHA MOVIES HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
+#EXTINF:1, STAR JALSHA
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:1, ZEE BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF:1, SONY AATH
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/add.jpeg",SONY CINEMA
 http://10.10.10.10/hls/5040.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/colorsbangla.jpg",COLORS BANGLA HD
