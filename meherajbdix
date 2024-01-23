@@ -3,6 +3,58 @@
 http://10.10.10.10/hls/4029.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/quraantv.jpg",QURAN TV
 http://10.10.10.10/hls/4112.m3u8
+#EXTINF:1, BTV 
+http://cdn01.palki.tv/live/BTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, BTV WORLD
+http://cdn01.palki.tv/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, BTV CHATTAGRAM
+http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, SANGSAD TV
+http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, T SPORTS AKASH
+113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:1, N TV
+http://cdn01.palki.tv/live/NTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, CHANNEL 9
+http://cdn01.palki.tv/live/Channel9-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, EKATTOR TV HD
+http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, BANGLAVISION
+http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, BOISHAKHI TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, EKHON TV
+http://cdn01.palki.tv/live/EkhonTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, GAAN BANGLA
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, NEXUS TV
+http://cdn01.palki.tv/live/NexusTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, TNB 24
+http://cdn01.palki.tv/live/TBN24-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, NEWS 24
+http://cdn01.palki.tv/live/News24-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, CHANNEL I
+http://cdn01.palki.tv/live/Channeli-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, INDEPENDENT TV
+http://cdn01.palki.tv/live/Independent-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, R TV
+http://cdn01.palki.tv/live/RTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, EKUSHEY TV
+http://cdn01.palki.tv/live/EkusheyTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, SOMOY TV
+http://cdn01.palki.tv/live/SomoyTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, ATN BANGLA
+http://cdn01.palki.tv/live/ATNBangla-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, ATN NEWS
+http://cdn01.palki.tv/live/ATNNews-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, BIJOY TV
+http://cdn01.palki.tv/live/BijoyTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, ANANDA TV
+http://cdn01.palki.tv/live/AnandaTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, MOHONA TV
+http://cdn01.palki.tv/live/MohonaTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:1, GLOBAL TV
+http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/somoytv.jpg",SOMOY TV HD
 http://10.10.10.10/hls/4010.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/Jamuna.jpg",JAMUNA TV HD
