@@ -103,7 +103,16 @@ https://livess.jagobd.com.bd/live-orgin/ntvuk00332211.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:1, NAN TV
 https://livess.jagobd.com.bd/live-orgin/nantv.stream/chunks.m3u8
-
+#EXTINF:1, I ON TV
+https://livess.jagobd.com.bd/live-orgin/iontvuk.stream/chunks.m3u8
+#EXTINF:1, THE CHANNEL
+https://livess.jagobd.com.bd/live-orgin/thechanneltv.stream/chunks.m3u8
+#EXTINF:1, BISWA BANGLA 24
+https://livess.jagobd.com.bd/live-orgin/biswabanglatv.stream/chunks.m3u8
+#EXTINF:1, CHANNEL EUROPE 
+https://livess.jagobd.com.bd/live-orgin/channeleurope.stream/chunks.m3u8
+#EXTINF:1, NTV EUROPE 
+https://livess.jagobd.com.bd/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/somoytv.jpg",SOMOY TV HD
 http://10.10.10.10/hls/4010.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/Jamuna.jpg",JAMUNA TV HD
