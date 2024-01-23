@@ -67,6 +67,34 @@ http://162.244.81.142:1935/live/livestream/chunklist_w1826437024.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:1, AMAR BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:1, GREEN TV
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:1, COMILLA TV
+http://103.149.142.133/0.m3u8
+#EXTINF:1, DIPTO TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:1, RTV HD
+https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:1, NOBANNO TV
+https://livess.jagobd.com.bd/live-orgin/cmtv.stream/chunks.m3u8
+#EXTINF:1, JONMO VUMI
+https://livess.jagobd.com.bd/live-orgin/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:1, ATN MUSIC
+https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:1, CAN BANGLA 
+https://livess.jagobd.com.bd/live-orgin/canbanglatv.stream/chunks.m3u8
+#EXTINF:1, NRB TV
+https://livess.jagobd.com.bd/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:1, VARENDRA TV
+https://livess.jagobd.com.bd/live-orgin/varendratv.stream/chunks.m3u8
+#EXTINF:1, DBC NEWS
+https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
+#EXTINF:1, N TV UK 
+https://livess.jagobd.com.bd/live-orgin/ntvuk00332211.stream/chunks.m3u8
+#EXTINF:1, ATN BANGLA UK
+https://livess.jagobd.com.bd/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+#EXTINF:1, NAN TV
+https://livess.jagobd.com.bd/live-orgin/nantv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/somoytv.jpg",SOMOY TV HD
 http://10.10.10.10/hls/4010.m3u8
