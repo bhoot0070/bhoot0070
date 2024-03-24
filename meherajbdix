@@ -224,3 +224,11 @@ http://10.10.10.10/hls/5055.m3u8
 http://10.10.10.10/hls/5056.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/ptvsports.jpg"group-title="BDIX",PTV SPORTS
 http://10.10.10.10/hls/4151.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtH5RXyk/K7b1Bbz.png"group-title="MEHERAZ",Gazi TV
+http://114.130.96.165:8080/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg"group-title="MEHERAZ",TSPORTS 
+http://114.130.96.165:8080/1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqXJ4Qvp/tsports.jpg"group-title="MEHERAZ",T SPORTS HD
+http://114.130.96.165:8080/1101/tracks-v1a1/mono.m3u8
