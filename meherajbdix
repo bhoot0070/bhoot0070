@@ -1,4 +1,77 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4V7yoS2STPlQfPFTLEwK0634dIeqDaSJj0qVF4TheDEktArLE5L4Te2Y&s=10"group-title="PALKI", MADANI TV
+http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png"group-title="PALKI", BTV
+http://cdn01.palki.tv/live/BTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png"group-title="PALKI", BTV WORLD
+http://cdn01.palki.tv/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2e/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE.png"group-title="PALKI", BTV CHATTOGRAM 
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/800px-Sangsad_Television_Emblem.svg.png"group-title="PALKI", SANGSAD TV
+http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png"group-title="PALKI", ANANDA TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"group-title="PALKI", ASIAN TV
+http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png"group-title="PALKI", ATN BANGLA
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF"group-title="PALKI", ATN NEWS
+http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/800px-Banglavision.svg.png"group-title="PALKI", BANGLA VISION
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1689620641283190784/GGbvbn-B_400x400.png"group-title="PALKI", BIJOY TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png"group-title="PALKI", BOISHAKHI TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png"group-title="PALKI", CHANNEL 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJTuRSTG_41RNZOmihOpvWIPBPUrc3eSAXVvDYf-n8OA1y3dsnItGcA9pR&s=10"group-title="PALKI", CHANNEL 24
+http://cdn01.palki.tv:80/live/Channel24-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e4/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%86%E0%A6%87.svg/1200px-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%86%E0%A6%87.svg.png"group-title="PALKI", CHANNEL I
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/1200px-DBC_News_Logo.svg.png"group-title="PALKI", DBC NEWS
+http://cdn01.palki.tv:80/live/DBC-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThnJEQmyNCtGk1qNmzYi8D1VeJLFk8k1MLgXa5ubG2pewT_dluoVNNpE7m&s=10"group-title="PALKI", NEWS 24
+http://cdn01.palki.tv/live/News24-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/%E0%A6%A6%E0%A7%80%E0%A6%AA%E0%A7%8D%E0%A6%A4_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B_%E0%A7%A8.jpg"group-title="PALKI",DEEPTO TV
+http://cdn01.palki.tv:80/live/DeeptoTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkIjRc9lSjHhWOVl52cf32sgXBAnRNm6PBlkDNTl9_AjwJMsao_TAJe8&s=10"group-title="PALKI", DURONTO TV
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDpSOZOeWVFgpKCDZebTDyxs1hRklZgL2r7p9Ds6pVUw&s"group-title="PALKI", EKATTOR TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"group-title="PALKI", EKHON TV
+http://cdn01.palki.tv:80/live/EkhonTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/b/b9/%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg/1200px-%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg.png"group-title="PALKI", EKUSHE ETV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png"group-title="PALKI", GLOBAL TV
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png"group-title="PALKI", GREEN TV
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/800px-Independent_Television_Logo.svg.png"group-title="PALKI", INDEPENDENT TV
+http://cdn01.palki.tv/live/Independent-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduuGzgGjTor6dxF8z6TFl2jMGg3XdSKI9ewFU9iqaUXV6vukInpUnfZo&s=10"group-title="PALKI", JAMUNA TV
+http://cdn01.palki.tv:80/live/JamunaTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg"group-title="PALKI", MAASRANGA TV
+http://cdn01.palki.tv:80/live/MaasrangaTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png"group-title="PALKI", MOHONA TV
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png"group-title="PALKI", NEXUS TV
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png"group-title="PALKI", NTV
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png"group-title="PALKI", SA TV
+http://cdn01.palki.tv:80/live/SATV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"group-title="PALKI", SOMOY TV
+http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbLuUA-PF9rSFueMSL81LlcCdp8xkvKLDMOYAHaL-sK80B2He3Dv9NSFU&s=10"group-title="PALKI", TBN 24
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png"group-title="PALKI", WION
+http://cdn01.palki.tv:80/live/WION-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OVGQzUyzXfdkJKk5wWwwPrnVEnf6J1x8wyWaLsWX0w&s"group-title="PALKI", GAAN BANGLA
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/madani.jpg"group-title="BDIX",MADANI TV
 http://10.10.10.10/hls/4029.m3u8
 #EXTINF:-1 tvg-logo="http://10.10.10.10/img/quraantv.jpg"group-title="BDIX",QURAN TV
